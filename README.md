@@ -1,5 +1,5 @@
 # InternshipProject
-Django code for my portion of an internship with Prosper IT Consulting.
+Code for my portion of an internship with Prosper IT Consulting.
 This is a recipe tracker web application using Python. 
 It contains a database to store recipes and ingredients.
 Integrated an API to pull recipes from the internet based on ingredients searched.
